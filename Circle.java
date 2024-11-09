@@ -1,4 +1,5 @@
 import java.util.Objects;
+import java.util.Iterator;
 
 public class Circle extends Shape {
     protected Point center;
